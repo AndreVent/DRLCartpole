@@ -1,4 +1,4 @@
-Using Deep reinforcement learning it is possible to train a AI to play the Cart pole game and get a perfect score consistently
+Using Deep reinforcement learning it is possible to train a AI to play the Cart pole game and get a perfect score consistently.
 
 Program Libary Requirements:
 Tensorflow
